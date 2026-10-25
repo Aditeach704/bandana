@@ -1,0 +1,2 @@
+/* Shopping cart styles */
+.cart-item{display:grid;grid-template-columns:1fr auto;gap:1rem;padding:1rem 0}
