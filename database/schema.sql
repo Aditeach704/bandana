@@ -1,0 +1,4 @@
+-- Production schema reference (PostgreSQL). Runtime starter currently uses persistent JSON files.
+CREATE TABLE users (id TEXT PRIMARY KEY, name TEXT NOT NULL, email TEXT UNIQUE NOT NULL, phone TEXT, password_hash TEXT NOT NULL, role TEXT NOT NULL DEFAULT 'customer', created_at TIMESTAMPTZ NOT NULL DEFAULT NOW());
+CREATE TABLE products (id TEXT PRIMARY KEY, name TEXT NOT NULL, category TEXT NOT NULL, price NUMERIC(10,2) NOT NULL, stock INTEGER NOT NULL DEFAULT 0, active BOOLEAN NOT NULL DEFAULT TRUE);
+CREATE TABLE orders (id TEXT PRIMARY KEY, user_id TEXT NOT NULL REFERENCES users(id), status TEXT NOT NULL, payment_method TEXT NOT NULL, payment_status TEXT NOT NULL, total NUMERIC(10,2) NOT NULL, delivery JSONB NOT NULL, items JSONB NOT NULL, created_at TIMESTAMPTZ NOT NULL DEFAULT NOW(), updated_at TIMESTAMPTZ NOT NULL DEFAULT NOW());

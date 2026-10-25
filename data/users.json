@@ -1,0 +1,32 @@
+[
+  {
+    "id": "USR-MVNJZUI2-43046E",
+    "name": "Store Staff",
+    "email": "staff@bandana.local",
+    "phone": "",
+    "role": "staff",
+    "salt": "7352e433cdcb04828ff364d0c08e32ab",
+    "passwordHash": "151770abe4ebb000b1b41773fd4a31f9fbc719bec63b63274eb9ad574bfa041a3d1e1509aaf59d98ddefc2182cd14d923857e20009cb783d8b25c48f5c308a62",
+    "createdAt": "2026-10-25T08:16:09.770Z"
+  },
+  {
+    "id": "USR-MVNJZULJ-D07C9A",
+    "name": "Store Admin",
+    "email": "admin@bandana.local",
+    "phone": "",
+    "role": "admin",
+    "salt": "5edc2ce41e398c3d27eb947d0a756acb",
+    "passwordHash": "da653f57568064f9aa43050c06fd5d3b90cb79197282866959c7110334f57869ed3ea122634f05dc9ecc7bfb633b6a45635a846bf36b73af23066d65b753f92d",
+    "createdAt": "2026-10-25T08:16:09.895Z"
+  },
+  {
+    "id": "USR-MVNK2DCK-E8A8E7",
+    "name": "Aditya Ghatak",
+    "email": "aditeach704@gmail.com",
+    "phone": "06290514708",
+    "role": "customer",
+    "salt": "55144c2eff0c6fae807052797f22ad11",
+    "passwordHash": "fdc435b5522b2d5ad9f7837b6bae0561fcd8723fefa150f33caba9a25cd30f3938fc92d7cf310d75a743f79af5808e9e1ebe70d8187279cdddcdd0437c88d0af",
+    "createdAt": "2026-10-25T08:18:07.508Z"
+  }
+]

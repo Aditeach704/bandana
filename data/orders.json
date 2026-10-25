@@ -1,0 +1,39 @@
+[
+  {
+    "id": "BND-MVNK3BQM-95B505",
+    "userId": "USR-MVNK2DCK-E8A8E7",
+    "customer": {
+      "name": "Aditya Ghatak",
+      "email": "aditeach704@gmail.com",
+      "phone": "06290514708"
+    },
+    "items": [
+      {
+        "productId": "dhuno",
+        "name": "Dhuno",
+        "unitPrice": 48,
+        "quantity": 1,
+        "lineTotal": 48
+      }
+    ],
+    "subtotal": 48,
+    "shipping": 40,
+    "total": 88,
+    "status": "New",
+    "paymentMethod": "cod",
+    "paymentStatus": "Pending",
+    "delivery": {
+      "recipient": "Aditya Ghatak",
+      "phone": "06290514708",
+      "address": "8/2. SARKARPARA LANE. BHADRESWAR , HOOGHLY",
+      "city": "BHADRESWAR",
+      "state": "West Bengal",
+      "pin": "712124",
+      "landmark": "Hooghly",
+      "notes": ""
+    },
+    "assignedTo": "",
+    "createdAt": "2026-10-25T08:18:52.083Z",
+    "updatedAt": "2026-10-25T08:18:52.083Z"
+  }
+]

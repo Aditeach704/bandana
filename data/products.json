@@ -1,0 +1,142 @@
+[
+  {
+    "id": "dhuno",
+    "name": "Dhuno",
+    "category": "dhuno",
+    "price": 48,
+    "pack": "Pack",
+    "description": "Traditional aromatic dhuno for puja and daily rituals.",
+    "image": "/images/products/dhuno.svg",
+    "stock": 100
+  },
+  {
+    "id": "unique",
+    "name": "Unique",
+    "category": "agarbatti",
+    "price": 50,
+    "pack": "Pack",
+    "description": "A fragrant everyday agarbatti selection.",
+    "image": "/images/products/unique.svg",
+    "stock": 100
+  },
+  {
+    "id": "lendi-hybrid",
+    "name": "Lendi Hybrid",
+    "category": "agarbatti",
+    "price": 50,
+    "pack": "Pack",
+    "description": "A classic incense product from the catalogue.",
+    "image": "/images/products/lendi-hybrid.svg",
+    "stock": 100
+  },
+  {
+    "id": "anjali",
+    "name": "Anjali",
+    "category": "agarbatti",
+    "price": 10,
+    "pack": "Pack",
+    "description": "A compact pack for everyday worship.",
+    "image": "/images/products/anjali.svg",
+    "stock": 100
+  },
+  {
+    "id": "hasi-khusi",
+    "name": "Hasi Khusi",
+    "category": "agarbatti",
+    "price": 95,
+    "pack": "Pack",
+    "description": "An aromatic product from the supplied catalogue.",
+    "image": "/images/products/hasi-khusi.svg",
+    "stock": 100
+  },
+  {
+    "id": "sukh-samriddhi",
+    "name": "Sukh Samriddhi",
+    "category": "agarbatti",
+    "price": 210,
+    "pack": "Pack",
+    "description": "A larger pack listed in the supplied catalogue.",
+    "image": "/images/products/sukh-samriddhi.svg",
+    "stock": 100
+  },
+  {
+    "id": "red",
+    "name": "Red",
+    "category": "agarbatti",
+    "price": 50,
+    "pack": "Pack",
+    "description": "Red pack; multiple prices/pack sizes need confirmation.",
+    "image": "/images/products/red.svg",
+    "stock": 100
+  },
+  {
+    "id": "white",
+    "name": "White",
+    "category": "agarbatti",
+    "price": 150,
+    "pack": "Pack",
+    "description": "White pack from the supplied catalogue.",
+    "image": "/images/products/white.svg",
+    "stock": 100
+  },
+  {
+    "id": "pujar-chona",
+    "name": "Pujar Chona",
+    "category": "puja",
+    "price": 200,
+    "pack": "Pack",
+    "description": "Puja product listed in the supplied catalogue.",
+    "image": "/images/products/pujar-chona.svg",
+    "stock": 100
+  },
+  {
+    "id": "fantasy",
+    "name": "Fantasy",
+    "category": "agarbatti",
+    "price": 125,
+    "pack": "Pack",
+    "description": "An aromatic product from the supplied catalogue.",
+    "image": "/images/products/fantasy.svg",
+    "stock": 100
+  },
+  {
+    "id": "normal-dhoop",
+    "name": "Normal Dhoop",
+    "category": "dhoop",
+    "price": 20,
+    "pack": "Pack",
+    "description": "Everyday dhoop for home and worship.",
+    "image": "/images/products/normal-dhoop.svg",
+    "stock": 100
+  },
+  {
+    "id": "height",
+    "name": "Height",
+    "category": "agarbatti",
+    "price": 50,
+    "pack": "Pack",
+    "description": "Product name supplied by the customer; price needs confirmation.",
+    "image": "/images/products/height.svg",
+    "stock": 100
+  },
+  {
+    "id": "sukh-samriddhi-small",
+    "name": "Sukh Samriddhi (small)",
+    "category": "agarbatti",
+    "price": 10,
+    "pack": "Small pack",
+    "description": "Small pack price requires final confirmation.",
+    "image": "/images/products/sukh-samriddhi-small.svg",
+    "stock": 100
+  },
+  {
+    "id": "puja-chona",
+    "name": "Puja Chona",
+    "category": "puja",
+    "price": 20,
+    "pack": "Pack",
+    "description": "Catalogue name/price should be confirmed before launch.",
+    "image": "/images/products/puja-chona.svg",
+    "stock": 100
+  }
+]
